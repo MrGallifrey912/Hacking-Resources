@@ -43,7 +43,7 @@ I then cURL'd the target to review the code and found a submit feedback link.
 Further investigating reveals that the submit uses a POST method; potential entry point. I tried to go straight to the flag.txt and get a "401 Unauthorized"
 
 Going straight to /submit_feedback shows:
-[Pasted image 20241229221603.png]
+![screenshot][Pasted image 20241229221603.png]
 So this shows me that I can potentially exploit the text input.
 
 ## Exploring potentials
