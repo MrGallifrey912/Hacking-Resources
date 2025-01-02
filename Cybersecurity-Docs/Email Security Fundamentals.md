@@ -1,3 +1,4 @@
+# Email Security Fundamentals
 In today's world, email is an essential communication tool and is used by individuals and organizations around the globe. Since it is used so widely, this means that it is one of the most exploited attack vectors for threat actors, if not, the primary method of exploitation. After doing some research it turns out that somewhere in the ballpark of 85% - 91% of cyberattacks begin with a phishing email.
 
 In this post I will guide us through exploring how email is leveraged as the initial vector for attackers, the types of emails threat actors manipulate and strategies to bolster email security and mitigate these risks.
