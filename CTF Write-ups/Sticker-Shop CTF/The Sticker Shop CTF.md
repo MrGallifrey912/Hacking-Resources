@@ -44,7 +44,8 @@ I then cURL'd the target to review the code and found a submit feedback link.
 Further investigating reveals that the submit uses a POST method; potential entry point. I tried to go straight to the flag.txt and get a "401 Unauthorized"
 
 Going straight to /submit_feedback shows:
-![submit feedback screenshot](https://github.dev/MrGallifrey912/Hacking-Resources/blob/d21a916a7102d56aaeaf90efe753a402f175694a/Sticker-Shop%20CTF/Images/Pasted%20image%2020241229221603.png)
+
+![submit feedback screenshot](https://github.com/MrGallifrey912/Hacking-Resources/blob/d21a916a7102d56aaeaf90efe753a402f175694a/Sticker-Shop%20CTF/Images/Pasted%20image%2020241229221603.png)
 
 So this shows me that I can potentially exploit the text input.
 
