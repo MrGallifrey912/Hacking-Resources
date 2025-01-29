@@ -25,7 +25,7 @@ reference: https://github.com/advisories/GHSA-4w54-wwc9-x62c
 I captured the Login process in Burpsuite after finding the super admin credentials of "SilverAdmin" in the documentation on their website. ![SilverPeas defaults](https://github.com/MrGallifrey912/Hacking-Resources/blob/e8ec3ae58c6ee8893d68e77ec239cbc911892273/CTF%20Write-ups/Silver-Platter/images/Pasted%20image%2020250128134634.png))
 
 I then deleted the password field in the request and forwarded all remaining packages. 
-![BurpSuite](../SilverPlatter%20Images/Screenshot%202025-01-28%20134440.png)
+![BurpSuite](https://github.com/MrGallifrey912/Hacking-Resources/blob/fe5c27b65102160618584e7cd87bb997ab4ad48c/CTF%20Write-ups/Silver-Platter/images/Screenshot%202025-01-28%20134440.png)
 
 reference: https://www.silverpeas.org/installation/installationV6.html
 #### ***Succès, j'en suis !***
